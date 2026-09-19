@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hola, soy Gabriel Duran
+
+Soy estudiante de cuarto año de Ingeniería Informática en la UIB (Universitat de les Illes Balears). Me especializo en deep learning y desarrollo de inteligencia artificial.
+
+Actualmente estoy buscando mi primera oportunidad laboral o prácticas profesionales en el sector tecnológico.
+
+Habitualmente uso Java, Python y SQL para realizar mis proyectos y trabajos de la universidad, trabajando con librerías como PyTorch, TensorFlow y Scikit-learn.
+
+### Contacto
+* **LinkedIn:** [Gabriel Duran](https://www.linkedin.com/in/gabriel-duran-camps-0a24b339a)
+* **Email:** [bieldc2005@gmail.com](mailto:bieldc2005@gmail.com)
 
 <!--
 **BielDC/BielDC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
